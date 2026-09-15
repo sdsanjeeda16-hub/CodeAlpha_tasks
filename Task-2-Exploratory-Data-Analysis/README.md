@@ -1,3 +1,4 @@
+
 # Exploratory Data Analysis - Student Performance
 
 ## Objective
@@ -5,11 +6,10 @@
 The objective of this project is to perform Exploratory Data Analysis (EDA) on a student performance dataset and identify trends, patterns, relationships, and potential data-quality issues.
 
 ## Dataset
-
 The dataset contains information about 20 students.
 
-### Variables
 
+### Variables
 - Student
 - Study Hours
 - Attendance
